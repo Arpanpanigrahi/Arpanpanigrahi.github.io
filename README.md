@@ -14,4 +14,8 @@ Crafted with HTML, CSS, and JavaScript, my portfolio is a showcase of responsive
 ## 🔗 Portfolio Link
 https://arpanpanigrahi.github.io/
 
+## Screenshots
+
+![App Screenshot](https://i.postimg.cc/rwZR7mxX/Screenshot-18.png)
+
 
